@@ -1,0 +1,11 @@
+r,r DRAW 
+r,p user
+r,s comp
+
+p,r comp
+p,p DRAW
+p,s user
+
+s,r user
+s,p comp
+s,s DRAW
